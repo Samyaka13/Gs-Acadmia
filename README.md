@@ -2,14 +2,6 @@
 
 > GS Academia is an Edtech website. An "Instructor" can upload his courses and a "Student" can watch his lectures by paying him. This website is built using MERN (MongoDB, Express, React, NodeJs) Technologies. Frontend/UI is based on React, Redux, Tailwind, CSS, Javascript, and HTML.
 
-## Links
-
-> #### Full Stack GitHub Repo - [Click Here]()
->
-> #### Frontend GitHub Repo - [Click Here]()
->
-> #### Backend GitHub Repo - [Click Here]()
->
 
 
 ## Usage
