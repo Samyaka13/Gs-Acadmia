@@ -10,9 +10,7 @@
 >
 > #### Backend GitHub Repo - [Click Here]()
 >
-> #### Frontend Live at - [https://gsacademia-parth-lahotis-projects.vercel.app/]()
->
-> #### Backend Live at - [https://test-gs-backend.onrender.com/]()
+
 
 ## Usage
 
